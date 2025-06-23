@@ -1,16 +1,16 @@
-# Clustering Algorithm Self-Study - DBSCAN – Assignment 3
+## Clustering Algorithm Self-Study - DBSCAN – Assignment 3
 
 This repository contains the code, report, and figures for the DBSCAN-focused clustering algorithm assignment.
 
 
-# Content
+### Content
 
 - `assignment report.pdf` – Final report with DBSCAN overview, comparative analysis, updated table, and all required figures.
 - `scripts/` – Python script or Jupyter notebook or both used for clustering and visualization.
 - `figures/` – Plots showing results from DBSCAN, k-Means, and Hierarchical clustering on various datasets.
 - `README.md` – You’re reading it.
 
-# Datasets Used
+### Datasets Used
 
 All datasets were generated using `sklearn.datasets`:
 
